@@ -1,4 +1,4 @@
-# Julian (Akbar) Khatibi
+# Julian Khatibi
 ### Staff / Lead Mobile Architect — React Native, TypeScript, iOS & Android
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khatibi.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.khatibi.app/)
@@ -18,20 +18,6 @@ While most of my production enterprise work lives in private client repositories
 - **Brownfield Migrations & Native Bridges:** Migrating legacy native iOS/Android modules into unified React Native architectures, building **SwiftUI** home-screen widgets, and integrating custom hardware SDKs (**Clover POS**, Bluetooth/telemetry).
 - **AI-Augmented Engineering & CI/CD Velocity:** Combining modern AI workflows with strict TypeScript domain modeling, **Jest / React Native Testing Library / Cypress**, and automated **GitHub Actions** pipelines.
 
----
-
-### Production Case Studies (Enterprise Highlights)
-
-| Organization | Domain | Key Architectural Contribution | Core Stack |
-| :--- | :--- | :--- | :--- |
-| **HealthStream** | Healthcare Workforce | Re-engineered high-volume scheduling views (*ShiftWizard*) with on-demand pagination & .NET API state sync; resolved 100+ production defects. | `React Native` `Redux Toolkit` `Redux-Saga` `.NET` |
-| **AppFolio** | PropTech | Built universal mobile features and a shared component library; led WCAG accessibility audits and Jest unit testing standards. | `React Native` `TypeScript` `Expo` `Gluestack UI` |
-| **National Powersport Auctions** | Enterprise Automotive | Architected an offline-first vehicle inspection platform for warehouse dead zones with automated GitHub Actions CI/CD pipelines. | `React Native` `WatermelonDB` `React Query` `CI/CD` |
-| **Ascension** | Clinical Healthcare | Modernized *Ascension One* patient portal into a modular design system; eliminated UI thread bottlenecks via memoization & code-splitting. | `React Native` `Figma Tokens` `WCAG 2.0` `Jest` |
-| **Herbalife Nutrition** | FinTech / POS Hardware | Engineered a hybrid POS app (*HN MyClub*) on custom Clover hardware; drove unit test coverage to 80%+ and automated QA flows with Cypress. | `React Native` `Clover SDK` `iOS/Android` `Cypress` |
-| **General Motors** | Connected Vehicles | Migrated native vehicle management features into React Native (*myChevrolet* / *myCadillac*) and built native iOS SwiftUI telemetry widgets. | `React Native` `SwiftUI` `Native Bridges` `XCTest` |
-
----
 
 ### Selected Engineering Articles
 
